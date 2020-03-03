@@ -2,6 +2,7 @@
   margin:0;
   padding:0;
   box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
 }
 
 [class*="col-"] {
@@ -42,4 +43,17 @@ header {
   width: 30%;
   height: auto;
   margin:0 auto;
+}
+hr {
+  display: inline-block;
+  border: 2px solid white;
+  width: 90px;
+  margin-bottom:10px;
+}
+.gatto i {
+  padding:15px;
+  font-size: xx-large;
+}
+.gatto {
+  text-align: center;
 }
